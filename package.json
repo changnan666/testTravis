@@ -1,0 +1,20 @@
+{
+  "name": "testTravis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changnan666/testTravis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changnan666/testTravis/issues"
+  },
+  "homepage": "https://github.com/changnan666/testTravis#readme"
+}
